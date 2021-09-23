@@ -1,0 +1,30 @@
+
+.body{
+    background-color: #727272;
+    padding: 40px;
+    width: 25%;
+    align-items: center;
+    justify-content: center;
+    text-align:center;
+    border-radius: 15px;
+    margin-left: 40%;
+    overflow: hidden;
+    
+    
+}
+
+.group{
+    height: 100%;
+    padding-top: 10%;
+    
+}
+
+.signout{
+    height: 35px;
+    border:0;
+    border-radius: 7px;
+    background-color: #000;
+    color: #ffffff;
+    font-size: 1.3em;
+    width: 90px;
+}
